@@ -1,4 +1,4 @@
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3945e470-8369-436d-90af-1303c7543a28/Untitled-1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3945e470-8369-436d-90af-1303c7543a28/Untitled-1.png)
+![Readme Image]()
 
 I'm a 16 year old from the UK. I love to code and learn new technologies 
 
@@ -56,5 +56,5 @@ I've known Java since late 2020 and use it to code things for Minecraft like gam
 - MySQL ![30%](https://progress-bar.dev/30/)
 - Ionic Framework ![10%](https://progress-bar.dev/10/)
 
-## Currently listening to:
+## 🎧 Currently listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ffsouaqkkipjg62kfmnds31n&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=7ffsouaqkkipjg62kfmnds31n&redirect=true)
