@@ -49,7 +49,7 @@ I've known Java since late 2020 and use it to code things for Minecraft like gam
 ## 📖 Things I'm learning:
 
 - Angular ![10%](https://progress-bar.dev/10/)
-- Typescript ![50%](https://progress-bar.dev/50/)
+- Typescript ![90%](https://progress-bar.dev/50/)
 - React ![0%](https://progress-bar.dev/0/)
 - MySQL ![30%](https://progress-bar.dev/30/)
 - Ionic Framework ![10%](https://progress-bar.dev/10/)
