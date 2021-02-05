@@ -53,6 +53,3 @@ I've known Java since late 2020 and use it to code things for Minecraft like gam
 - React ![0%](https://progress-bar.dev/0/)
 - MySQL ![30%](https://progress-bar.dev/30/)
 - Ionic Framework ![10%](https://progress-bar.dev/10/)
-
-## 🎧 Currently listening to:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ffsouaqkkipjg62kfmnds31n&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=7ffsouaqkkipjg62kfmnds31n&redirect=true)
