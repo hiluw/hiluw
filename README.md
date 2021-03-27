@@ -1,3 +1,1 @@
-# 👋 Hey I'm Lewie
-Welcome to my GitHub profile!<br/><br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiluw)](https://github.com/hiluw/)
+![Metrics](https://metrics.lecoq.io/hiluw?template=classic&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FLondon)
