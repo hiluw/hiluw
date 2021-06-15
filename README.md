@@ -4,9 +4,9 @@
 - **Pronouns:** any
 - **Location:** 🇬🇧
 - **Skills:**
-  - 📚 ⌨️ Typescript, Javascript, Rust
-  - 🔙 🔚 Apollo, Express
-  - ▶️ 🔚 Svelte, Vue
+  - 📚 Typescript, Javascript, Rust
+  - ◀️ Apollo, Express
+  - ▶️ Svelte, Vue
 
 ## <samp>Contact Me</samp>
 
