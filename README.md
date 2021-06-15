@@ -1,12 +1,14 @@
 
-# ![](https://avatars.githubusercontent.com/u/63024194?s=24) hiluw
+# <img src="https://avatars.githubusercontent.com/u/63024194?s=24"> <samp>hiluw</samp>
+- **Name:** Lewie
+- **Pronouns:** any
+- **Location:** 🇬🇧
+- **Skills:**
+  - 📚 ⌨️ Typescript, Javascript, Rust
+  - 🔙 🔚 Apollo, Express
+  - ▶️ 🔚 Svelte, Vue
 
-![](./assets/home.svg) Northampton, UK<br>
-![](./assets/organization.svg) Student.<br>
-
-## ![](./assets/person.svg) About Me
-I'm a 16-year-old web developer from 🇬🇧. I've been coding since 2018 and have loved it ever since.<br>
-## ![](./assets/milestone.svg) Contact Me
+## <samp>Contact Me</samp>
 
 - **Email:** email@lewie.me
 - **Discord:** hiluw#0001 
