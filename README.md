@@ -1,6 +1,6 @@
 
 # <img src="https://avatars.githubusercontent.com/u/63024194?s=24"> <samp>hiluw</samp>
-- **Name:** Lewie
+- **Name:** Lu
 - **Pronouns:** any
 - **Location:** 🇬🇧
 - **Skills:**
